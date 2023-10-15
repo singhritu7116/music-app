@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://singhritu7116.github.io/music-app/static/css/main.073c9b0a.css",
+    "main.js": "https://singhritu7116.github.io/music-app/static/js/main.6e39015a.js",
+    "static/js/787.33c069aa.chunk.js": "https://singhritu7116.github.io/music-app/static/js/787.33c069aa.chunk.js",
+    "index.html": "https://singhritu7116.github.io/music-app/index.html",
+    "main.073c9b0a.css.map": "https://singhritu7116.github.io/music-app/static/css/main.073c9b0a.css.map",
+    "main.6e39015a.js.map": "https://singhritu7116.github.io/music-app/static/js/main.6e39015a.js.map",
+    "787.33c069aa.chunk.js.map": "https://singhritu7116.github.io/music-app/static/js/787.33c069aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6e39015a.js"
+  ]
+}
